@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "145848950294",
+    "project_id": "shopease-sprints",
+    "storage_bucket": "shopease-sprints.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145848950294:android:469cf424f3cfa4f6579f37",
+        "android_client_info": {
+          "package_name": "com.example.shop_ease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu88TSD-LMb-dsZ5_Mti-9jXDDy5K3lbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
